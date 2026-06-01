@@ -10,6 +10,8 @@ A list of AI/ML projects — from university FYP to side projects. Descriptions,
 | 2 | **RAG Project** | Retrieval-Augmented Generation pipeline that grounds LLM responses in external documents for more accurate, context-aware answers. | Python, LangChain, Vector DB, LLM | [Link](https://github.com/Tahrim19/RAG-project) |
 | 3 | **Naruto Jutsu** | Detects ASL hand signs via webcam and maps them to Naruto jutsu animations — Chidori, Rasengan, and Fireball. Naruto-specific hand sign recognition is in progress. | Python, OpenCV, Mediapipe, Scikit-learn | [Link](https://github.com/Tahrim19/naruto) |
 | 4 | **Fruit Ninja** | AI-powered Fruit Ninja clone using computer vision. Tracks hand/finger movements via webcam to slash fruits in real time — no controller needed. | Python, OpenCV, MediaPipe | [Link](https://github.com/Tahrim19/Fruit-Ninja) |
+| 5 |⚡**Support Triage Agent** | Terminal-based AI agent built in 24h for the HackerRank Orchestrate hackathon. Triages support tickets across HackerRank, Claude, and Visa using a confidence-driven hybrid RAG pipeline — classifier, safety gate, fast/careful retrieval lanes, and self-checks. Escalates high-risk cases instead of hallucinating. | Python, FAISS, Groq, Gemini, Sentence Transformers | [Link](https://github.com/Tahrim19/hackerrank-orchestrate-may26) |
+
 
 
 ---
